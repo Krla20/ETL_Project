@@ -8,6 +8,7 @@ Purchasing a home is typically one of the most important decisions a family unde
 <p align="center"><img width="562" height="450" src="images/HAR_data.PNG"></p>  
 <br>
    TEA.texas.gov provides data from the Texas Education Agency. Texas provides annual academic accountability ratings to its public school districts, charters and schools. The ratings are based on performance on state standardized tests; graduation rates; and college, career, and military readiness outcomes. The ratings examine student achievement, school progress, and whether districts and campuses are closing achievement gaps among various student groups. Data was filtered to include only HISD (Houston Independent School District) schools.  Data was downloaded 06 Feb 2021 from the public site.<br>
+<br>
 <p align="center"><img width="562" height="450" src="images/TEA_data.PNG"></p>
 <br>
 2. Transform<br>
