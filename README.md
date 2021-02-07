@@ -11,13 +11,14 @@ Purchasing a home is typically one of the most important decisions a family unde
 <p align="center"><img width="432" height="259" src="TEA_data.PNG"></p>
 <br>
 2. Transform<br>
-   HAR.com - Some columns deemed unimportant to the home buyer, e.g., columns related to listing agent and office were dropped from the dataset.  Columns formatted as currency data types were converted to float type data.
 <br>
-   TEA.texas.gov - The pandemic in 2020 prevented school ratings from being calculated.  This column, and ratings prior to 2019, were dropped from the dataset.  Each school has a grade given to it in 2019 for their academic performance with "A" being the highest score and an "F" as the lowest.
+   HAR.com - Some columns deemed unimportant to the home buyer, e.g., columns related to listing agent and office were dropped from the dataset.  Columns formatted as currency data types were converted to float type data.<br>
 <br>
-   Column names were altered or shortened in some cases.  Spaces between words were replaced with underscores. 
+   TEA.texas.gov - The pandemic in 2020 prevented school ratings from being calculated.  This column, and ratings prior to 2019, were dropped from the dataset.  Each school has a grade given to it in 2019 for their academic performance with "A" being the highest score and an "F" as the lowest.<br>
 <br>
-   Each dataset's .csv file was imported into a Jupyter Notebook python file. There the data was examined and transformed into pandas dataframes. 
+   Column names were altered or shortened in some cases.  Spaces between words were replaced with underscores. <br>
+<br>
+   Each dataset's .csv file was imported into a Jupyter Notebook python file. There the data was examined and transformed into pandas dataframes. <br>
 <br>
 
 
