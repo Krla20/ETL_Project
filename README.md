@@ -1,6 +1,6 @@
 # Extract, Transform, and Load
 Objective(s)
-<br>
+/n<br>
 Purchasing a home is typically one of the most important decisions a family undertakes.  In 2020 $18.4 billion in property was sold in Harris County with another $58.2 million in leases.  For many home buyers the quality of the schools is a critical aspect for home selection.  
 <br>
 1. Extract data from Har.com and tea.texas.gov.
