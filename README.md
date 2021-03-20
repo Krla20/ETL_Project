@@ -1,4 +1,4 @@
-ting this file -- delet this line later this file 
+
 <div style="background-image: url('images/background.png');">
 <p align="center"><img width="100%" height="144" src="images/header.png"></p>
 <h1>Extract, Transform, and Load</h1>
